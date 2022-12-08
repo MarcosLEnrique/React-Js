@@ -10,8 +10,8 @@ const NavBar = () => {
         <NavBar.Toggle aria-controls="responsive-navbar-nav" />
         <NavBar.Collapse id="responsive-navbar-nav">
         <Nav className="me-auto">
-            <NavLink className="btn btn-outline-primary" to="/category/Celulares">Celulares</NavLink>
-            <NavLink className="btn btn-outline-primary" to="/category/Celulares">Celulares</NavLink>
+            <NavLink className="btn btn-outline-primary" to="/category/Celulares">Celular</NavLink>
+            <NavLink className="btn btn-outline-primary" to="/category/Celulares">Celular</NavLink>
         </Nav>
         <Nav>
 
